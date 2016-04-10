@@ -7,7 +7,7 @@ prerequisite: simplenote, nodejs
 # Usage
 
 1. Log your weight @ [Simplenote](https://simplenote.com/)
-2. Publish your log (note), then replace `url` of yours.
+2. Publish your log (note), then replace `url` with yours.
 
 
 ## Simplenote log format
