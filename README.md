@@ -56,6 +56,14 @@ prerequisite: simplenote, nodejs
 09 23:40 199.55
 ```
 
+<div style="background-color: lightblue; 
+border-radius: 5px;
+font-weight: bold;
+display: inline-block;
+padding: 8px 14px;
+margin-bottom: 0.5em;"> date time weight </div>
+<del style="color: grey;">*( &#42; i'm not 200kg. Just dummy data. )*</del>
+
 Blank is irrelevant to the result.
 
 ---
