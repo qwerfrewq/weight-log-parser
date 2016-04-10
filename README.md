@@ -61,7 +61,10 @@ Blank is irrelevant to the result.
 
 ## Execute node
 
-`node index.js`
+```bash
+npm install
+node index.js
+```
 
 
 ![screenshot](/screenshot1.png)
